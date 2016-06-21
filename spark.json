@@ -1,0 +1,10 @@
+{
+  "name": "particle-dallas-temperature",
+  "author": Paul Kourany (peekay123), Feb 4, 2016 and Digole Digital Solutions: www.digole.com,
+  "license": "MIT",
+  "version": "0.0.6",
+  "description": "Digole display library for Particle devices, extended to include extra geometry primitives",
+  "dependencies":{
+    "application.h & math.h"
+  }
+}
