@@ -2,9 +2,6 @@
   "name": "DigoleGeo",
   "author": "Paul Kourany (peekay123), Feb 4, 2016 and Digole Digital Solutions: www.digole.com",
   "license": "none",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Digole display library for Particle devices, extended to include extra geometry primitives",
-  "dependencies":{
-    "application.h & math.h"
-  }
 }
